@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/dennyArfansyah/LeethubProblems/tree/master/0242-valid-anagram) |
+| [1635-number-of-good-pairs](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -15,4 +16,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/dennyArfansyah/LeethubProblems/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1635-number-of-good-pairs) |
+## Math
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1635-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
