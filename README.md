@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/dennyArfansyah/LeethubProblems/tree/master/0242-valid-anagram) |
+| [1205-defanging-an-ip-address](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1205-defanging-an-ip-address) |
 ## Sorting
 |  |
 | ------- |
