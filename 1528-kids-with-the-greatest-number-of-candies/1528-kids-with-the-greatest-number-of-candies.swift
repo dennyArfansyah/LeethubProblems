@@ -1,5 +1,10 @@
 class Solution {
     func kidsWithCandies(_ candies: [Int], _ extraCandies: Int) -> [Bool] {
-        candies.map({ $0 >= (candies.max() ?? 0) - extraCandies })
+        var result = [Bool]()
+        _ = candies.map {
+            var biggest = candies.sorted().last!
+            result.append(($0+extraCandies) < biggest ? false : true)
+        }
+        return result
     }
 }
