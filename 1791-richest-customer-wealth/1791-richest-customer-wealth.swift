@@ -1,15 +1,13 @@
 class Solution {
     func maximumWealth(_ accounts: [[Int]]) -> Int {
-        var sum = [Int]()
+        var result = [Int]()
         for account in accounts {
-            var eachSum = 0
-            for (index, acc) in account.enumerated() {
-                eachSum += acc
-                if index == account.count-1 {
-                    sum.append(eachSum)
-                }
+            var res = 0
+            for ac in account {
+                res += ac
             }
+            result.append(res)
         }
-        return sum.sorted().last ?? 0
+        return result.sorted().last!
     }
 }
