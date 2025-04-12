@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1635-number-of-good-pairs) |
+| [2383-add-two-integers](https://github.com/dennyArfansyah/LeethubProblems/tree/master/2383-add-two-integers) |
 ## Counting
 |  |
 | ------- |
