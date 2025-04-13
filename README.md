@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/dennyArfansyah/LeethubProblems/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/dennyArfansyah/LeethubProblems/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1205-defanging-an-ip-address) |
+| [1797-goal-parser-interpretation](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1797-goal-parser-interpretation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dennyArfansyah/LeethubProblems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/dennyArfansyah/LeethubProblems/tree/master/3194-find-words-containing-character) |
 ## Sorting
