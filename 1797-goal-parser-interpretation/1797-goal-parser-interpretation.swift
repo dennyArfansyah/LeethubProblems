@@ -1,9 +1,13 @@
 class Solution {
     func interpret(_ command: String) -> String {
-        if command.isEmpty {
-            return ""
+        var result = command
+        if result.contains("()") {
+            result = result.replacingOccurrences(of: "()", with: "o")
         }
-        let o = command.replacingOccurrences(of: "()", with: "o")
-        return o.replacingOccurrences(of: "(al)", with: "al")  
-    } 
+        
+        if result.contains("(al)") {
+            result = result.replacingOccurrences(of: "(al)", with: "al")
+        }
+        return result
+    }
 }
