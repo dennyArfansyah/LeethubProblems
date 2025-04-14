@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1603-running-sum-of-1d-array](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1791-richest-customer-wealth) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dennyArfansyah/LeethubProblems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -48,4 +49,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1791-richest-customer-wealth) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
