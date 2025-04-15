@@ -55,4 +55,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1603-running-sum-of-1d-array) |
+## Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/dennyArfansyah/LeethubProblems/tree/master/2384-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/dennyArfansyah/LeethubProblems/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
