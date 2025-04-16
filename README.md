@@ -24,9 +24,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/dennyArfansyah/LeethubProblems/tree/master/0242-valid-anagram) |
+| [1019-squares-of-a-sorted-array](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1019-squares-of-a-sorted-array) |
 ## Array
 |  |
 | ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1019-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1603-running-sum-of-1d-array) |
@@ -68,4 +70,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2384-root-equals-sum-of-children](https://github.com/dennyArfansyah/LeethubProblems/tree/master/2384-root-equals-sum-of-children) |
+## Two Pointers
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
