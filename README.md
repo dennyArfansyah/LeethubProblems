@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/dennyArfansyah/LeethubProblems/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/dennyArfansyah/LeethubProblems/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/dennyArfansyah/LeethubProblems/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1205-defanging-an-ip-address) |
 | [1797-goal-parser-interpretation](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1797-goal-parser-interpretation) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/dennyArfansyah/LeethubProblems/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/dennyArfansyah/LeethubProblems/tree/master/2383-add-two-integers) |
@@ -48,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/dennyArfansyah/LeethubProblems/tree/master/0412-fizz-buzz) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/dennyArfansyah/LeethubProblems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Matrix
 |  |
