@@ -4,6 +4,6 @@ class Solution {
         nums.forEach { n in
             fruits.insert(n)
         }
-        return fruits.count == nums.count ? false : true
+        return fruits.count != nums.count
     }
 }
