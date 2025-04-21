@@ -14,6 +14,6 @@ class Solution {
             }
         }
     
-    return result.max() ?? 0
+    return result.sorted().last ?? 0
     }
 }
