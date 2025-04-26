@@ -8,7 +8,7 @@ class Solution {
             newNums1.append(nums2[i])
         }
         
-        nums1.removeAll()
+        // nums1.removeAll()
         nums1 = newNums1.sorted()
     }
 }
