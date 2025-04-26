@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/dennyArfansyah/LeethubProblems/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/dennyArfansyah/LeethubProblems/tree/master/0485-max-consecutive-ones) |
 | [1019-squares-of-a-sorted-array](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1168-duplicate-zeros) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1603-running-sum-of-1d-array) |
@@ -81,4 +82,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dennyArfansyah/LeethubProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/dennyArfansyah/LeethubProblems/tree/master/1168-duplicate-zeros) |
 <!---LeetCode Topics End-->
